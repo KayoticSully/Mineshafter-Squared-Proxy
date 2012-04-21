@@ -1,4 +1,5 @@
 #Sat Mar 24 19:34:18 EDT 2012
+enable-query=true
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=1.6
